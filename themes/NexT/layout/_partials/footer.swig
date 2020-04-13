@@ -26,6 +26,14 @@
   本站访客数<span id="busuanzi_value_site_uv"></span>人次
 </span>
 
+<span class="post-meta-divider"> | </span>
+
+<span class=BbeiAn-info">
+  {{ __('粤ICP备') }} -
+  <a href="http://www.beian.miit.gov.cn">18077297号</a>
+</span>
+
+
 <!--
 {% if theme.copyright %}
   <div class="powered-by">{#
